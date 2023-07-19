@@ -160,7 +160,7 @@ body {
     text-transform: uppercase;
   }
 
-  .section3-sub {
+  .sub2 {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -263,7 +263,7 @@ body {
   .img5 {
     position: absolute;
     bottom: -60px;
-    left: -40px;
+    left: 40px;
   }
 
   .img4 {
